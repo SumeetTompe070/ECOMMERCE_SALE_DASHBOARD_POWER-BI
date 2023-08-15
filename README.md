@@ -21,6 +21,7 @@ Owner of Madhav store wants us to help him in creating an effective dashboard to
 
 
 CHARTS:-
+
     1)Sum Of Amount By State.
     
     2)Sum Of Quantity by Payment Mode.
@@ -30,9 +31,8 @@ CHARTS:-
     4)Sum of Amount by Customer Name.
     
     5)Sum Of Quantity by Category.
-    
-    ![ECOMMERCE](https://github.com/SumeetTompe070/ECOMMERCE_SALE_DASHBOARD_POWER-BI/assets/140255237/35ddbe0b-f3b9-4877-93ab-fa83f3e021a6)
-6)Sum Of Profit by Sub-Category.
+   
+    6)Sum Of Profit by Sub-Category.
 
   # Project Leaning:-
   * Created Interactive dashboard to track and analyze online sales data.
