@@ -11,22 +11,34 @@ Owner of Madhav store wants us to help him in creating an effective dashboard to
 6) SHARING USEFUL INSIGHTS
 
  KPI :-
-   1) Sum of Amount
-   2) Sum of Profit
-   3) Sum of Quantity
-   4) Sum of AOV(Average Order Value)
+   1) Sum of Amount.
+   
+   2) Sum of Profit.
+   
+   3) Sum of Quantity.
+   
+   4) Sum of AOV(Average Order Value).
 
 
 CHARTS:-
-    1)Sum Of Amount By State
-    2)Sum Of Quantity by Payment Mode
-    3)Profit by Month
-    4)Sum of Amount by Customer Name
-    5)Sum Of Quantity by Category
-    6)Sum Of Profit by Sub-Category
+    1)Sum Of Amount By State.
+    
+    2)Sum Of Quantity by Payment Mode.
+    
+    3)Profit by Month.
+    
+    4)Sum of Amount by Customer Name.
+    
+    5)Sum Of Quantity by Category.
+    
+    ![ECOMMERCE](https://github.com/SumeetTompe070/ECOMMERCE_SALE_DASHBOARD_POWER-BI/assets/140255237/35ddbe0b-f3b9-4877-93ab-fa83f3e021a6)
+6)Sum Of Profit by Sub-Category.
 
   # Project Leaning:-
   * Created Interactive dashboard to track and analyze online sales data.
   * Used complex parameter to drill down in worksheet and customization using filter and slicers.
   * created connections,join new table and calculation to manipulate data and enable user driven parameter for visualization.
   * Used different types of customized visualization (Bar chart,pie chart, Donut chart, Slicers,Scatter chart)etc.
+# E-Commerce Dashboard:-
+![ECOMMERCE](https://github.com/SumeetTompe070/ECOMMERCE_SALE_DASHBOARD_POWER-BI/assets/140255237/402f872e-7503-46d6-a83d-b1cba50ceccd)
+
